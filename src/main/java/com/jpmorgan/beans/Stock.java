@@ -127,9 +127,7 @@ public class Stock {
 				return false;
 		} else if (!stockSymbol.equals(other.stockSymbol))
 			return false;
-		if (stockType != other.stockType)
-			return false;
-		return true;
+		return stockType == other.stockType;
 	}
 
 	@Override

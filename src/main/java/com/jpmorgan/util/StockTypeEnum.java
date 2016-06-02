@@ -7,6 +7,6 @@ package com.jpmorgan.util;
  */
 public enum StockTypeEnum {
 
-	COMMON, PREFERRED;
+	COMMON, PREFERRED
 
 }

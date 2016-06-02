@@ -7,6 +7,6 @@ package com.jpmorgan.util;
  */
 
 public enum TradeOperationEnum {
-	BUY, SELL;
+	BUY, SELL
 
 }
